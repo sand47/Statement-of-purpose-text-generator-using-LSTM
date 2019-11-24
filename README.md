@@ -2,7 +2,7 @@ This project is a LSTM based custom text generator trained over 20's of Statemen
 
 ## Dependences : 
 <br>
-- Keras (tensorflow-gpu)
+- Keras (tensorflow-gpu) <br>
 - Numpy
 <br>
 
