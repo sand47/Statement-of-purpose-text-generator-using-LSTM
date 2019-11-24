@@ -3,7 +3,6 @@ This project is a LSTM based custom text generator trained over 20's of Statemen
 ## Dependences : 
 - Keras (tensorflow-gpu) <br>
 - Numpy
-<br>
 
 # Cleaning data: 
 
@@ -16,10 +15,10 @@ python Training.py
 # Trained Model
 
 https://drive.google.com/drive/folders/1zNn8-SAJc4L6FYfmpgQQ6lHrQMwdlABs?usp=sharing
-<br>
+
 
 ## Inference
-Add your seed text line in the code
+Add your seed text line in the inference.py code
 
 python inference.py 
 
