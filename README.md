@@ -1,11 +1,10 @@
-This code is used to generate a paragraph on of text based on your seed text and its recommended to have at least 10k words or 1 lakhs to get good
-results. 
+This project is a LSTM based custom text generator trained over 20's of Statement of purpose text file (10k words) to generate a sequence of meaningful text 
 
 ## Dependences : 
 <br>
-Keras (tensorflow-gpu) and Numpy
+- Keras (tensorflow-gpu)
+- Numpy
 <br>
-Make sure you change the text file name in the code
 
 # Cleaning data: 
 
