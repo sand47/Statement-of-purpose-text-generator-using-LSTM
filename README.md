@@ -1,7 +1,6 @@
 This project is a LSTM based custom text generator trained over 20's of Statement of purpose text file (10k words) to generate a sequence of meaningful text 
 
 ## Dependences : 
-<br>
 - Keras (tensorflow-gpu) <br>
 - Numpy
 <br>
@@ -16,7 +15,6 @@ python Training.py
 
 # Trained Model
 
-<br>
 https://drive.google.com/drive/folders/1zNn8-SAJc4L6FYfmpgQQ6lHrQMwdlABs?usp=sharing
 <br>
 
